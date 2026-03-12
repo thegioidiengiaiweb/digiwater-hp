@@ -3679,3 +3679,34 @@ button {
 .hero-visual.reveal.delay-200.active {
     margin-bottom: 20px;
 }
+
+section.map-section.section-padding {
+    padding-top: 0px;
+}
+
+section.philosophy-section.section-padding {
+    padding-bottom: 30px;
+    padding-top: 70px;
+}
+
+
+h2.section-title {
+    margin-bottom: 10px;
+}
+
+.text-center.reveal.active {
+    margin-bottom: 30px;
+}
+
+section.about-highlight-section.section-padding {
+    padding: 50px 0;
+}
+
+section.experts-section.section-padding {
+    padding: 50px 0;
+}
+
+section.scientific-section.section-padding {
+    padding: 50px 0;
+}
+
