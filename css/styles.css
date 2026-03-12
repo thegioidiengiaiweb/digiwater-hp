@@ -3675,3 +3675,7 @@ button {
 .map-card-link:hover {
   color: var(--sky-700);
 }
+
+.hero-visual.reveal.delay-200.active {
+    margin-bottom: 20px;
+}
